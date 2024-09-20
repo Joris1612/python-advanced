@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "python-advanced-cert"
+version = "0.1.0"
+description = ""
+authors = ["Joris <mathijsen.joris@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
